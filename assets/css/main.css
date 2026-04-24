@@ -438,6 +438,32 @@ th, td {
 	color: #0073a4;
 }
 
+.fa-orcid {
+  padding: 5px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-orcid:hover {
+	color: #A6CE39;
+}
+
+.fa-google-scholar {
+  padding: 5px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-google-scholar:hover {
+	color: #4285F4;
+}
+
 .fa-facebook {
   padding: 5px;
 	-o-transition:.5s;
