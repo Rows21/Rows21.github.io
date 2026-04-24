@@ -13,11 +13,11 @@ title: ''
 
 
 ## 2026
-**Wu, R.**, Chen, Z., Zhong, L., Li, H., & Shu, H. (2026). Unleashing diffusion and state space models for medical image segmentation. *Journal of Imaging Informatics in Medicine*, 1-19. [[Paper](https://Paper.springer.com/article/10.1007/s10278-026-01926-y),[Code](https://github.com/Rows21/k-Means_Mask_Mamba)]
+**Wu, R.**, Chen, Z., Zhong, L., Li, H., & Shu, H. (2026). Unleashing diffusion and state space models for medical image segmentation. *Journal of Imaging Informatics in Medicine*, 1-19. [[Paper](https://Paper.springer.com/article/10.1007/s10278-026-01926-y), [Code](https://github.com/Rows21/k-Means_Mask_Mamba)]
 
 
 ## 2024
-**Wu, R.**, Li, D., & Zhang, C. (2024, May). Semi-supervised Medical Image Segmentation via Query Distribution Consistency. In *2024 IEEE International Symposium on Biomedical Imaging (ISBI)*(pp. 1-5). IEEE. [[Paper](https://ieeexplore.ieee.org/abstract/document/10635325?casa_token=xFufxH_crxoAAAAA:HLEYWLT8oIcF4W3Tm87OfEN_uxe1upxdxzTW2rrQRG5CK8FrfAGcvFuhjPm9PRoB-ND8tfmvVaJm),[Code](https://github.com/Rows21/DK-UXNet)]
+**Wu, R.**, Li, D., & Zhang, C. (2024, May). Semi-supervised Medical Image Segmentation via Query Distribution Consistency. In *2024 IEEE International Symposium on Biomedical Imaging (ISBI)*(pp. 1-5). IEEE. [[Paper](https://ieeexplore.ieee.org/abstract/document/10635325?casa_token=xFufxH_crxoAAAAA:HLEYWLT8oIcF4W3Tm87OfEN_uxe1upxdxzTW2rrQRG5CK8FrfAGcvFuhjPm9PRoB-ND8tfmvVaJm), [Code](https://github.com/Rows21/DK-UXNet)]
 
 
 ## 2022
