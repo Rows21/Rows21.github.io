@@ -1,0 +1,38 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: true
+  disqus_shortname: 'fdabl'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: 'UA-132353960-1'
+
+menu:
+#- {name: 'About', menu: '', path: ''}
+- {name: 'Blog', path: 'menu', url: 'blog.html'}
+- {name: 'Papers', path: 'menu', url: 'papers.html'}
+#- {name: 'Press', path: 'menu', url: 'press.html'}
+- {name: 'Talks', path: 'menu', url: 'talks.html'}
+#- {name: 'Climate Resources', path: 'menu', url: 'climate.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+#- {icon: 'bluesky', link: 'https://bsky.app/profile/fdabl.bsky.social'}
+- {icon: 'envelope', link: 'mailto:rong.wu@ucsf.edu'}
+- {icon: 'orcid', link: 'https://orcid.org/0009-0006-8978-0892'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=5W7bZOIAAAAJ'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/rong-wu-0456401b4/'}
+- {icon: 'github', link: 'https://www.github.com/Rows21'}
+#- {icon: 'rss-square', link: '/feed.xml'}
+
+#- {icon: 'rss-square', link: '/rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy:'
+
+post_date_prefix: 'Written on'
