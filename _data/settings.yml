@@ -1,17 +1,17 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: true
-  disqus_shortname: 'fdabl'
+  disqus_shortname: 'rows21'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-132353960-1'
 
 menu:
 #- {name: 'About', menu: '', path: ''}
-- {name: 'Blog', path: 'menu', url: 'blog.html'}
 - {name: 'Papers', path: 'menu', url: 'papers.html'}
 #- {name: 'Press', path: 'menu', url: 'press.html'}
 - {name: 'Talks', path: 'menu', url: 'talks.html'}
+- {name: 'Blog', path: 'menu', url: 'blog.html'}
 #- {name: 'Climate Resources', path: 'menu', url: 'climate.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
