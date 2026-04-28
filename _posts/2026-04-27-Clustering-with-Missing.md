@@ -16,7 +16,9 @@ Wagstaff ([2004](https://link.springer.com/chapter/10.1007/978-3-642-17103-1_61)
 
 We simulate $n = 500$ observations and 7 random variables with two underlying clusters. The first four columns are treated as fully observed features, while the last three columns are initially generated as complete data and then randomly assigned missing values with missing rate 0.5. Before introducing missingness, standard k-means with $k=2$ is applied to all seven columns to produce a reference clustering based on the full information.
 
-After missingness is introduced, KSC is applied using the first four complete columns for distance-based clustering and the partially observed last three columns to generate soft pairwise constraints. The resulting KSC clustering is compared against the original full-data k-means clustering using the Adjusted Rand Index introduced in ([Wagstaff's paper](https://link.springer.com/chapter/10.1007/978-3-642-17103-1_61)), with an additional comparison to ordinary k-means using only the first four complete columns. This evaluates whether KSC can recover clustering structure closer to the full-data baseline than simply discarding the incomplete features.
+After missingness is introduced, KSC is applied using the first four complete columns for distance-based clustering and the partially observed last three columns to generate soft pairwise constraints. The resulting KSC clustering is compared against the original full-data k-means clustering using the Adjusted Rand Index (ARI) introduced in ([Wagstaff's paper](https://link.springer.com/chapter/10.1007/978-3-642-17103-1_61)), with an additional comparison to ordinary k-means using only the first four complete columns. This evaluates whether KSC can recover clustering structure closer to the full-data baseline than simply discarding the incomplete features.
+
+The ARI for KSC is 0.960 and ARI for K-means with 4 variable is 0.899.
  
 <div style='text-align: center;'>
   <img src="../assets/img/Figure-1-KSC.png" />
