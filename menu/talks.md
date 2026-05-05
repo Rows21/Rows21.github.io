@@ -8,7 +8,7 @@ title:
 ## 2026
 
 ## Posters
-Semi-supervised Medical Image Segmentation via Query Distribution Consistency, Athens, Greece, May, 2024. [[Link]({{ site.url }}/assets/posters/ISBI-Poster-2024.pdf)]
+[ISBI 2024] Semi-supervised Medical Image Segmentation via Query Distribution Consistency, Athens, Greece, May, 2024. [[Link]({{ site.url }}/assets/posters/ISBI-Poster-2024.pdf)]
 
 ----
 

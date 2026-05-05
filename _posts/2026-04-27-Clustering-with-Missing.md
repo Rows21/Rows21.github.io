@@ -12,7 +12,7 @@ toc: true
  
 *The original algorithm was developed by Dr. [Kiri Wagstaff](https://www.wkiri.com/), which was published [here](https://link.springer.com/chapter/10.1007/978-3-642-17103-1_61).*
  
-Wagstaff ([2004](https://link.springer.com/chapter/10.1007/978-3-642-17103-1_61)) present proposes K-means with Soft Constraints (KSC), a variant of k-means that handles missing values without imputation by using fully observed features for clustering and partially observed features to generate soft pairwise constraints. 
+Wagstaff ([2004](https://link.springer.com/chapter/10.1007/978-3-642-17103-1_61)) proposes K-means with Soft Constraints (KSC), a variant of k-means that handles missing values without imputation by using fully observed features for clustering and partially observed features to generate soft pairwise constraints. 
 
 We simulate $n = 500$ observations and 7 random variables with two underlying clusters. The first four columns are treated as fully observed features, while the last three columns are initially generated as complete data and then randomly assigned missing values with missing rate 0.5. Before introducing missingness, standard k-means with $k=2$ is applied to all seven columns to produce a reference clustering based on the full information.
 
