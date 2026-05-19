@@ -6,7 +6,7 @@ title:
 *If you are interested in a talk, workshop, or guest lecture on any of the topics below, do not hesitate to reach out.*
 
 ## 2026
-Bayesian Inference for Alzheimer’s Disease Progression Models. UCSF DEB Student Research day Oral, University of California San Francisco, San Francisco, USA, May 2026.
+Bayesian Inference for Alzheimer’s Disease Progression Models. UCSF DEB Student Research day Oral, University of California San Francisco, San Francisco, USA, May 2026. [[Link]({{ site.url }}/assets/talks/BayesianDPM.pdf)]
 
 
 ## Posters
