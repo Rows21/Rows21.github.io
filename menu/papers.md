@@ -14,7 +14,7 @@ title: ''
 
 
 ## 2026
-**Wu, R.**, Chen, Z., Zhong, L., Li, H., & Shu, H. (2026). Unleashing diffusion and state space models for medical image segmentation. *Journal of Imaging Informatics in Medicine*, 1-19. [[Paper](https://Paper.springer.com/article/10.1007/s10278-026-01926-y), [Code](https://github.com/Rows21/k-Means_Mask_Mamba)]
+**Wu, R.**, Chen, Z., Zhong, L., Li, H., & Shu, H. (2026). Unleashing diffusion and state space models for medical image segmentation. *Journal of Imaging Informatics in Medicine*, 1-19. [[Paper](https://link.springer.com/article/10.1007/s10278-026-01926-y), [Code](https://github.com/Rows21/k-Means_Mask_Mamba)]
 
 
 ## 2024
