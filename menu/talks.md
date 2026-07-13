@@ -10,7 +10,9 @@ Bayesian Inference for Alzheimer’s Disease Progression Models. UCSF DEB Studen
 
 
 ## Posters
-Semi-supervised Medical Image Segmentation via Query Distribution Consistency. International Symposium on Biomedical Imaging, Athens, Greece, May 2024. [[Link]({{ site.url }}/assets/posters/ISBI-Poster-2024.pdf)]
+Enhancing Medical Image Segmentation via Heat Conduction Equation. Medical Imaging with Deep Learning (MIDL), Taipei, July 2026.
+
+Semi-supervised Medical Image Segmentation via Query Distribution Consistency. International Symposium on Biomedical Imaging (ISBI), Athens, Greece, May 2024. [[Link]({{ site.url }}/assets/posters/ISBI-Poster-2024.pdf)]
 
 ----
 
