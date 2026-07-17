@@ -4,6 +4,8 @@ title: ''
 ---
 
 ## Submitted / under review
+Li, D., **Wu, R.**, Zhao, X., et al. (under review). Npp: An integrated AI-driven solution platform.
+
 **Wu, R.**, Tosun, D., Hausle, I., Heston, M., & Scheffler, A. W. (under review). A Bayesian Threshold-Aligned Joint Disease Progression Model (B-TAJ DPM) for Alzheimer’s Disease. [[Code](https://github.com/Rows21/B-TAJ)]
 
 **Wu, R.**, Chen, Z., Li, G., & Shu, H. (under review). Nonlinear Sparse Generalized Canonical Correlation Analysis for Multi-view High-dimensional Data. [[Paper](https://arxiv.org/abs/2502.18756), [Code](https://github.com/Rows21/NSGCCA)]
